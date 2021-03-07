@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://files.virgool.io/upload/users/7455/posts/crykdztoznyw/xvrvlazjwo3e.jpeg);
+    margin-right: 10%;
+    margin-left: 10%;
+    align-content: center;
+    
+} 
+.container{
+    border: 10px white solid;
+    background-color: white;
+ 
+}
+.box-1{ 
+    background-color:  #A8F0F0;
+    /* border: 5px red solid; */
+}
+.box-1 h2{
+    font-size: 14pt;
+}
+.box-1 h1{
+    
+     text-align: right; 
+}
+.box-1-2{
+    /* border: 5px orange solid; */
+     text-align: right; 
+}
+.box-2{
+    border: 4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+    margin-top:10px;
+    padding:5px;
+    overflow: auto;
+}
+.box-2 #image{
+    float: right;
+}
+.box-2 #img-2{
+    float: right;
+}
+.date{
+    border-bottom:2px blue dashed;
+    
+}
